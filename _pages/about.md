@@ -19,4 +19,9 @@ Dr. Engr. Daha Shehu Aliyu earned his B.Eng. in Civil Engineering from Kano Univ
 * Finite Element Modeling
 * Earthquake Engineering
 * Finite Element Analysis
-* Modal AnalysisFE Analysis 
+* Modal AnalysisFE Analysis
+
+## Awards
+* 2019 Petroleum Technology Development Fund (PTDF) Scholarship for Ph.D (UK).
+* 2014 Kano State Government Scholarship for masters study (India).
+  
