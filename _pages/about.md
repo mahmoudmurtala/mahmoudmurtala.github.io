@@ -10,7 +10,7 @@ Dr. Engr. Daha Shehu Aliyu earned his B.Eng. in Civil Engineering from Kano Univ
 
 ## Disciplines
 * Structural Engineering
-*Civil Engineering
+* Civil Engineering
 
 ## Skills and expertise
-*Structural Dynamics*Structural Analysis*Dynamic Analysis*Finite Element Modeling*Earthquake Engineering*Finite Element Analysis*Modal AnalysisFE Analysis*
+* Structural Dynamics * Structural Analysis * Dynamic Analysis * Finite Element Modeling * Earthquake Engineering * Finite Element Analysis * Modal AnalysisFE Analysis 
