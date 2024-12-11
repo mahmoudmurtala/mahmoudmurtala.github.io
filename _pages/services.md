@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## Civil Engineering Services
 ### Structural Analysis and Design
 - Design and analysis of concrete, steel, and timber structures.
 - Specialization in tall buildings, bridges, and foundations.
