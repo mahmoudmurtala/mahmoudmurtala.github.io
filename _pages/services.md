@@ -36,7 +36,7 @@
 
 ---
 
-## Architectural and Interior Design Services
+## Architectural and Interior Decoration Design Services
 ### Architectural Drawings
 - 2D and 3D modeling for residential, commercial, and industrial projects.
 - Detailed drafting using Revit Architect for accurate architectural plans.
