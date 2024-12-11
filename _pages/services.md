@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Services"
 permalink: /services/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
 ## Civil Engineering Services
 ### Structural Analysis and Design
 - Design and analysis of concrete, steel, and timber structures.
