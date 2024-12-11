@@ -7,9 +7,6 @@ redirect_from:
   - /resume
 ---
 
-
-# Services
-
 ## Civil Engineering Services
 ### Structural Analysis and Design
 - Design and analysis of concrete, steel, and timber structures.
