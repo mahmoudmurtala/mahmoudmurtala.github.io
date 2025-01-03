@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Engr. Daha Shehu Aliyu"
+title                    : "Engr. Dr. Daha Shehu Aliyu"
 title_separator          : "-"
 name                     :  &name "Engr Dr. Daha Shehu Aliyu"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Dahapic.JPG"
-  name             : "Dr. Engr. Daha Shehu Aliyu"
+  name             : "Engr. Dr. Daha Shehu Aliyu"
   bio              : "Structural Engineer"
   location         : "Newcastle Upon Tyne"
   employer         : "Newcastle University"
