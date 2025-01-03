@@ -25,8 +25,8 @@ author:
   name             : "Engr. Dr. Daha Shehu Aliyu"
   bio              : "Structural Engineer"
   location         : "Newcastle Upon Tyne"
-  employer 1       : "Newcastle University"
-  employer 2       : "ADUSTECH, Wudil, Kano State"
+  employer         : "Newcastle University"
+  employer         : "ADUSTECH, Wudil, Kano State"
   uri              : # URL
   email            : "engrdshanono@gmail.com"
 
