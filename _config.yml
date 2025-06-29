@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Engr. Dr. Daha Shehu Aliyu"
+title                    : "Engr. Dr. Mahmoud Farouq Murtala"
 title_separator          : "-"
-name                     :  &name "Engr Dr. Daha Shehu Aliyu"
+name                     :  &name "Engr. Dr. Mahmoud Farouq Murtala"
 description              : &description "personal description"
-url                      : https://dahashehu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://mahmoudmurtala.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,20 +22,20 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Dahapic.JPG"
-  name             : "Engr. Dr. Daha Shehu Aliyu"
-  bio              : "Structural Engineer"
+  name             : "Engr. Dr. Mahmoud Farouq Murtala"
+  bio              : "Civil Engineer (Sustainable Construction)"
   location         : "Newcastle Upon Tyne"
-  employer         : "Newcastle University & ADUSTECH, Wudil, Kano State"
-  uri              : "https://www.ncl.ac.uk/"
-  email            : "engrdshanono@gmail.com"
+  employer         : "Nottingham University & ADUSTECH, Wudil, Kano State"
+  uri              : "https://www.nottingham.ac.uk/"
+  email            : "mahmoudmurtala@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=OGgLY54AAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=sopIOwQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-9862-6962"
+  orcid            : "https://orcid.org/0000-0002-8724-6198"
   semantic         : # URL
-  researchgate     : "https://www.researchgate.net/profile/Daha-Aliyu"
+  researchgate     : "https://www.researchgate.net/profile/Mahmoud-Murtala-Farouq"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
